@@ -1,0 +1,15 @@
+body{
+    margin: 0;padding: 0;
+    background: rgb(175, 172, 172);
+}
+#h1{
+    text-align: center;
+}
+.row{
+    justify-content: space-around;
+   
+}
+ul .li{
+     font-style: italic;
+     font-weight: 700;
+}
